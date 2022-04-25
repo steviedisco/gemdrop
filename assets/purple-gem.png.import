@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/purple-gem.png-0d16cfed54eb4d8c0ebebc3256173059.res"
+group_file="res://assets/gems-atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/purple-gem.png"
+dest_files=[ "res://.import/purple-gem.png-0d16cfed54eb4d8c0ebebc3256173059.res" ]
+
+[params]
+
+atlas_file="res://assets/gems-atlas.png"
+import_mode=0
+crop_to_region=false

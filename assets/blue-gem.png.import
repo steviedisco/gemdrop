@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/blue-gem.png-20e46b4a07fdea9e582d5cdcf0ddc1ea.res"
+group_file="res://assets/gems-atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://assets/blue-gem.png"
+dest_files=[ "res://.import/blue-gem.png-20e46b4a07fdea9e582d5cdcf0ddc1ea.res" ]
+
+[params]
+
+atlas_file="res://assets/gems-atlas.png"
+import_mode=0
+crop_to_region=false
