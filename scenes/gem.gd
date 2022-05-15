@@ -5,7 +5,12 @@ enum GEM_TYPE { blue, green, orange, purple, yellow }
 
 var _gemType: int
 var _gemTypeName: String
+var _map
 
+
+func _init(map):
+	_map = map
+	
 
 func _ready():
 	randomize()	
@@ -18,5 +23,10 @@ func _ready():
 	pass 
 
 
-#func _process(delta):	
-#	pass
+func _process(delta):	
+	gem_fall(delta)
+	pass
+
+
+func gem_fall(delta):
+	pass
